@@ -1,0 +1,20 @@
+C:\Users\Projekat\Desktop\VS_C#_Projects\C-sharp-Credit-Card-Reader\C-sharp-Credit-Card-Reader\bin\Debug\C-sharp-Credit-Card-Reader.exe.config
+C:\Users\Projekat\Desktop\VS_C#_Projects\C-sharp-Credit-Card-Reader\C-sharp-Credit-Card-Reader\bin\Debug\C-sharp-Credit-Card-Reader.exe
+C:\Users\Projekat\Desktop\VS_C#_Projects\C-sharp-Credit-Card-Reader\C-sharp-Credit-Card-Reader\bin\Debug\C-sharp-Credit-Card-Reader.pdb
+C:\Users\Projekat\Desktop\VS_C#_Projects\C-sharp-Credit-Card-Reader\C-sharp-Credit-Card-Reader\obj\Debug\C-sharp-Credit-Card-Reader.csprojAssemblyReference.cache
+C:\Users\Projekat\Desktop\VS_C#_Projects\C-sharp-Credit-Card-Reader\C-sharp-Credit-Card-Reader\obj\Debug\C_sharp_Credit_Card_Reader.Properties.Resources.resources
+C:\Users\Projekat\Desktop\VS_C#_Projects\C-sharp-Credit-Card-Reader\C-sharp-Credit-Card-Reader\obj\Debug\C-sharp-Credit-Card-Reader.csproj.GenerateResource.cache
+C:\Users\Projekat\Desktop\VS_C#_Projects\C-sharp-Credit-Card-Reader\C-sharp-Credit-Card-Reader\obj\Debug\C-sharp-Credit-Card-Reader.csproj.CoreCompileInputs.cache
+C:\Users\Projekat\Desktop\VS_C#_Projects\C-sharp-Credit-Card-Reader\C-sharp-Credit-Card-Reader\obj\Debug\C-sharp-Credit-Card-Reader.exe
+C:\Users\Projekat\Desktop\VS_C#_Projects\C-sharp-Credit-Card-Reader\C-sharp-Credit-Card-Reader\obj\Debug\C-sharp-Credit-Card-Reader.pdb
+C:\Users\Projekat\Desktop\VS_C#_Projects\C-sharp-Credit-Card-Reader\C-sharp-Credit-Card-Reader\obj\Debug\C_sharp_Credit_Card_Reader.FormMain.resources
+C:\Users\Projekat\Desktop\VS_C#_Projects\C-sharp-Credit-Card-Reader  (ON HOLD DLL IN PROGRESS)\C-sharp-Credit-Card-Reader\bin\Debug\C-sharp-Credit-Card-Reader.exe.config
+C:\Users\Projekat\Desktop\VS_C#_Projects\C-sharp-Credit-Card-Reader  (ON HOLD DLL IN PROGRESS)\C-sharp-Credit-Card-Reader\bin\Debug\C-sharp-Credit-Card-Reader.exe
+C:\Users\Projekat\Desktop\VS_C#_Projects\C-sharp-Credit-Card-Reader  (ON HOLD DLL IN PROGRESS)\C-sharp-Credit-Card-Reader\bin\Debug\C-sharp-Credit-Card-Reader.pdb
+C:\Users\Projekat\Desktop\VS_C#_Projects\C-sharp-Credit-Card-Reader  (ON HOLD DLL IN PROGRESS)\C-sharp-Credit-Card-Reader\obj\Debug\C-sharp-Credit-Card-Reader.csprojAssemblyReference.cache
+C:\Users\Projekat\Desktop\VS_C#_Projects\C-sharp-Credit-Card-Reader  (ON HOLD DLL IN PROGRESS)\C-sharp-Credit-Card-Reader\obj\Debug\C_sharp_Credit_Card_Reader.FormMain.resources
+C:\Users\Projekat\Desktop\VS_C#_Projects\C-sharp-Credit-Card-Reader  (ON HOLD DLL IN PROGRESS)\C-sharp-Credit-Card-Reader\obj\Debug\C_sharp_Credit_Card_Reader.Properties.Resources.resources
+C:\Users\Projekat\Desktop\VS_C#_Projects\C-sharp-Credit-Card-Reader  (ON HOLD DLL IN PROGRESS)\C-sharp-Credit-Card-Reader\obj\Debug\C-sharp-Credit-Card-Reader.csproj.GenerateResource.cache
+C:\Users\Projekat\Desktop\VS_C#_Projects\C-sharp-Credit-Card-Reader  (ON HOLD DLL IN PROGRESS)\C-sharp-Credit-Card-Reader\obj\Debug\C-sharp-Credit-Card-Reader.csproj.CoreCompileInputs.cache
+C:\Users\Projekat\Desktop\VS_C#_Projects\C-sharp-Credit-Card-Reader  (ON HOLD DLL IN PROGRESS)\C-sharp-Credit-Card-Reader\obj\Debug\C-sharp-Credit-Card-Reader.exe
+C:\Users\Projekat\Desktop\VS_C#_Projects\C-sharp-Credit-Card-Reader  (ON HOLD DLL IN PROGRESS)\C-sharp-Credit-Card-Reader\obj\Debug\C-sharp-Credit-Card-Reader.pdb
